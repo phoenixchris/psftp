@@ -1,0 +1,14 @@
+BUGS:
+* Check PASV command's return code in sendPasvCommand()
+* Check establishDataConnection return code (dataconn.cpp)
+* Check filenames enclosed in commas
+* Check for memory leaks
+
+REFACTORING:
+
+FEATURES:
+* Implement lazy login
+* Topic help
+
+LONG TERM:
+* ANSI C compliance
