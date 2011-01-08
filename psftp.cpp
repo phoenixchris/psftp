@@ -18,7 +18,7 @@ void displayInfo()
 {
 	printf(
 		"psFTP Client v0.1 \n" \
-		"Written by Vasile \"Rimio\" Vilvoiu \n\n" \
+		"Written by Vasile \"Rimio\" Vilvoiu, Diana Simu, Adrian Olaru, Stefan Bogdan \n\n" \
 		);
 }
 
@@ -28,7 +28,7 @@ void displayInfo()
 void displayHelp()
 {
 	printf(
-		"Usage: psftp -h <host> [-option <value>] [--flag] \n" \
+		"Usage: psftp -s <host> [-option <value>] [--flag] \n" \
 		"Options: \n"
 		"  -d <dir>         Go to default directory \n" \
 		"  -s <host>        Host IP address or URL \n" \
