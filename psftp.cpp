@@ -18,7 +18,7 @@ void displayInfo()
 {
 	printf(
 		"psFTP Client v0.1 \n" \
-		"Written by Vasile \"Rimio\" Vilvoiu, Diana Simu, Adrian Olaru, Stefan Bogdan \n\n" \
+		"Written by Vasile \"Rimio\" Vilvoiu \n\n" \
 		);
 }
 
